@@ -73,3 +73,6 @@ Bot: Goodbye!
 3. Easily extendable with more patterns and responses
 
 ---
+
+Submitted by Vikas V
+
