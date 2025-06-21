@@ -54,12 +54,15 @@ python chatbot.py
 Hi! I'm your CodTech chatbot. Type 'exit' to end.
 
 You: hello
+
 Bot: Hello!
 
 You: what is your name?
+
 Bot: I am a chatbot created for CodTech Internship Task 03.
 
 You: bye
+
 Bot: Goodbye!
 
 ---
