@@ -74,5 +74,5 @@ Bot: Goodbye!
 
 ---
 
-Submitted by Vikas V
+### Submitted by Vikas V
 
